@@ -2,7 +2,7 @@
 
 > A futuristic AI voice assistant built with **Python, LiveKit, Google Gemini Realtime AI, and ADB**.
 
-![ULTRON Orb UI]((https:)
+![description](assets/az5mri.gif)
 
 ULTRON is a voice-controlled AI assistant inspired by **Sagar Builds' ULTRON project**. I recreated the core concept and added a few extra features and improvements while learning and experimenting with real-time AI and automation.
 
