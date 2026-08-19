@@ -19,6 +19,7 @@ async def open_app_or_site(query: str) -> str:
         "youtube": "https://youtube.com",
         "gmail": "https://mail.google.com",
         "google": "https://google.com",
+        "edge"  : "https://edge.com",
         "github": "https://github.com",
         "whatsapp": "https://web.whatsapp.com",
     }
